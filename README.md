@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="center">My name is Hassan Ahmed, I’m a detail-oriented Front-End Developer with hands-on experience from internships at Orbscope, ACS, and the Google Developer Student Club (GDSC), where I contributed to real-world web projects, collaborated in agile teams, and honed my skills in building clean, responsive, and user-centric interfaces.</h2>
+<h2 align="center">My name is Hassan Ahmed, I’m a detail-oriented Front-End Developer with hands-on experience from training at Orbscope, ACS, and the Google Developer Student Club (GDSC), where I contributed to real-world web projects, collaborated in agile teams, and honed my skills in building clean, responsive, and user-centric interfaces.</h2>
 
 ###
 
